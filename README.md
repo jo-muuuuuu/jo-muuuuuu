@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Developer** who loves building robust and scalable
 
 ## ✅ About Me
 - 🔭 I’m currently working on: [bookkeeping app](http://16.26.46.247/)
-- 🎮 I have a website to showcase games I played: https://jo-muuuuuu.github.io/game-library/
+- 🎮 I have a website to showcase the games I've played: https://jo-muuuuuu.github.io/game-library/
 - 📫 How to reach me: johnnymu0809@gmail.com
 
 ## 🚀 Tech Stack
