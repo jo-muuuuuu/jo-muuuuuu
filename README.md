@@ -1,4 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Johnny Mu!
+
+I'm a passionate **Full Stack Developer** who loves building robust and scalable applications from the ground up.
+
+## ✅ About Me
+- 🔭 I’m currently working on: [bookkeeping app](http://16.26.46.247/)
+- 🎮 I have a website to showcase games I played: https://jo-muuuuuu.github.io/game-library/
+- 📫 How to reach me: johnnymu0809@gmail.com
+
+## 🚀 Tech Stack
+
+- **Programming Languages:** <b>JavaScript</b>, <b>Python</b>, C, PHP, C++
+- **Web Tech:** <b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>Ant Design</b>, Bootstrap
+- **Databases:** <b>MySQL</b>, <b>MongoDB</b>, SQL, phpMyAdmin
+- **Other:** <b>AWS</b>, <b>RESTful APIs</b>, Docker, Figma
+---
+
 
 <!--
 **jo-muuuuuu/jo-muuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
