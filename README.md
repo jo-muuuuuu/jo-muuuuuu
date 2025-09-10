@@ -3,7 +3,8 @@
 I'm a passionate **Full Stack Developer** who loves building robust and scalable applications from the ground up.
 
 ## ✅ About Me
-- 🔭 I’m currently working on: [bookkeeping app](http://16.26.46.247/)
+- 🔭 I’m currently working on: [bookkeeping app](http://16.26.46.247/)（Repos: [Frontend](https://github.com/jo-muuuuuu/personal-finance-app-fe), [Backend](https://github.com/jo-muuuuuu/personal-finance-app-be))
+- 🌱 I’m currently learning: TypeScript
 - 🎮 I have a website to showcase the games I've played: https://jo-muuuuuu.github.io/game-library/
 - 📫 How to reach me: johnnymu0809@gmail.com
 
@@ -13,7 +14,13 @@ I'm a passionate **Full Stack Developer** who loves building robust and scalable
 - **Web Tech:** <b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>Ant Design</b>, Bootstrap
 - **Databases:** <b>MySQL</b>, <b>MongoDB</b>, SQL, phpMyAdmin
 - **Other:** <b>AWS</b>, <b>RESTful APIs</b>, Docker, Figma
----
+
+## 🎓 Qualifications
+- **Bachelor of Information Technology @ Monash University:** Majoring in Computer Networks & Security
+- **Master of Information Technology @ The University of Melbourne:** Majoring in Distributed Computing
+- **Professional Year ICT @ Monash Professional Pathways**
+- **AWS Certified Cloud Practationer**
+
 
 
 <!--
