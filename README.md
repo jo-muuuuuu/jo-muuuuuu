@@ -10,10 +10,10 @@ I'm a passionate **Full Stack Developer** who loves building robust and scalable
 
 ## 🚀 Tech Stack
 
-- **Programming Languages:** <b>JavaScript</b>, <b>Python</b>, C, PHP, C++
-- **Web Tech:** <b>React</b>, <b>Node.js</b>, <b>Express</b>, <b>Ant Design</b>, Bootstrap
-- **Databases:** <b>MySQL</b>, <b>MongoDB</b>, SQL, phpMyAdmin
-- **Other:** <b>AWS</b>, <b>RESTful APIs</b>, Docker, Figma
+- **Programming Languages:** <b>TypeScript</b>, <b>JavaScript</b>, <b>Python</b>, C, PHP, C++
+- **Web Tech:** <b>React</b>, Next.js, <b>Node.js</b>, Nest.js, <b>Express</b>, <b>Ant Design</b>, Tailwind, Bootstrap
+- **Databases:** <b>PostgreSQL</b>, <b>MySQL</b>, <b>MongoDB</b>, SQL, phpMyAdmin
+- **Other:** <b>AWS</b>, <b>RESTful APIs</b>, <b>Vercel</b>, Docker, Figma
 
 ## 🎓 Qualifications
 - **Bachelor of Information Technology @ Monash University:** Majoring in Computer Networks & Security
