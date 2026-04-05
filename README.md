@@ -4,7 +4,7 @@ I'm a passionate **Full Stack Developer** who loves building robust and scalable
 
 ## ✅ About Me
 - 🔭 I’m currently working on: [Penny Wave](https://pennywave.net/)（Repos: [Frontend](https://github.com/jo-muuuuuu/penny-wave-fe), [Backend](https://github.com/jo-muuuuuu/penny-wave-be), [Related Notes](https://github.com/jo-muuuuuu/penny-wave-notes))
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: Next.js & Nest.js
 - 🎮 I have a website to showcase the games I've played: https://jo-muuuuuu.github.io/game-library/
 - 📫 How to reach me: johnnymu0809@gmail.com
 
